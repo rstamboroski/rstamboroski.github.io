@@ -1,0 +1,23 @@
+$mytype: 'Helvetica';
+$brandcolor: red;
+
+body{
+  font-family: $mytype;
+}
+
+a {
+  color: $brandcolor;
+}
+
+h2{
+  color: $brandcolor;
+
+}
+
+
+.post-list {
+  list-style: none;
+  a{
+    color: green;
+  }
+}
